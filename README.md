@@ -1,1 +1,1 @@
-# Documentation creating a relational database for an assignment.
+# Documentation creating a relational database for an assignment (Associated with Barnfield College).
